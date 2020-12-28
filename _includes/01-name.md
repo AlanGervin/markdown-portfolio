@@ -23,6 +23,6 @@ In my course I learned how to write a full CRUD(Create, Read, Update, Delete) AP
 
 I am actively seeking employment. If you have an idea and would to see it brought to life please contact me.
 
-If you would like to know more please contact me via email at alan.gervin@gmail.com
+If you would like to know more please contact me via email at <alan.gervin@gmail.com>
 
 
